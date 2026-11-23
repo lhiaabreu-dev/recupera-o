@@ -1,0 +1,21 @@
+
+body {
+    background-color: #1c1c1c;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
